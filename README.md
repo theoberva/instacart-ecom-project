@@ -42,11 +42,6 @@ _The objective of this project is to analyze the Instacart dataset to identify p
    Simulate an A/B test scenario where two different promotions are tested on a subset of customers.
    Use Bayesian statistics to analyze the A/B test results and determine which promotion is more effective.
    Discuss how Bayesian analysis provides additional insights compared to traditional frequentist methods.
-6. **Demand Forecasting and Inventory Optimization** <br>
-   Use Bayesian structural time series models to forecast the demand for popular product combinations.
-   Use these forecasts to make recommendations for inventory optimization.
-7. **Visualization and Insights** <br>
+6. **Visualization and Insights** <br>
    Visualize the association rules, customer segments, and A/B test results using plots and heatmaps.
    Summarize the insights gained from the analysis and how they can be used to optimize promotions and recommendations.
-8. **Reporting and Documentation** <br>
-   Write a comprehensive report or create a presentation that describes each step of the analysis, the methodologies used, the results obtained, and the insights and recommendations for Instacart.
