@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 dataset/
-
+*.pbix
 
 __pycache__/
 *.py[cod]
